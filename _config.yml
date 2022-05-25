@@ -1,0 +1,16 @@
+# This is a Jekyll configuration file
+# ref: https://jekyllrb.com/docs/configuration/options/
+#
+# We make use of this theme, and it is what makes title and description have
+# meaning.
+# ref: https://github.com/pages-themes/minimal
+# _config.yaml
+title: DIY Cloud Computing with R
+description: This helm chart deploys customized R future-based distributed computing platform on a Kubernetes cluster.
+theme: minima
+url: "https://diy-ds-cloud.github.io/mmmm"
+repo_name: mmmm
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
