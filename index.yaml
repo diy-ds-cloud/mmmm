@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  diy-mmmm:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-05-25T20:53:19.749359836Z"
+    description: DIY Cloud Computing with R
+    digest: 65c13f74ce6511b583a82e8e5f398f008a94f756f9fa0284fac522768703abbf
+    name: diy-mmmm
+    type: application
+    urls:
+    - https://diy-ds-cloud.github.io/mmmm/diy-mmmm-0.0.1-n002.h3225627.tgz
+    version: 0.0.1-n002.h3225627
+generated: "2022-05-25T20:53:19.748823931Z"
